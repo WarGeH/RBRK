@@ -1,0 +1,51 @@
+﻿@{
+    Layout = null;
+    ViewBag.Title = "Список тестов";
+    List<Homeschooledsystem.Models.Lecture> lects = ViewBag.Lectures;
+    int courseId = ViewBag.CourseId;
+    int testId = 0;
+    int counter = 0;
+    Layout = null;
+}
+
+@model IEnumerable<Homeschooledsystem.Models.Test>
+
+<h2>Тесты</h2>
+<h5>№Теста/Имя лекции</h5>
+@if (Model.Count() > 0)
+{
+    <table class="table">
+        @foreach (var item in lects)
+        {
+            foreach (var i in Model)
+            {
+                if (i.Lecture == item)
+                {
+                    testId = i.Id;
+                }
+            }
+            <tr>
+
+
+                <td>
+                    @{counter++;}
+                    @counter
+                    @Html.DisplayFor(modelItem => item.Name)
+
+                </td>
+                <td>
+                    @Html.ActionLink("Подробнее", "QuestionsList", new { lectId = item.Id }) |
+                    @Html.ActionLink("Удалить", "Delete", new { id = testId, courseId = courseId })
+                </td>
+            </tr>
+        }
+
+    </table>
+}
+else
+{
+    <hr />
+    <p style="color:#808080; text-align:left">
+        Здесь пока ещё нет тестов
+    </p>
+}

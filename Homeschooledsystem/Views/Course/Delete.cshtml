@@ -1,0 +1,46 @@
+﻿@model Homeschooledsystem.Models.Course
+
+@{
+    ViewBag.Title = "Delete";
+}
+@if (User.IsInRole("teacher") ) {
+<h2>Удалить курс</h2>
+
+<h3>Вы действительно хотите удалить курс?</h3>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PublishDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PublishDate)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Удалить" class="btn btn-default" /> |
+            @Html.ActionLink("Вернуться", "Teacher")
+        </div>
+    }
+</div>
+}
+else
+{
+    <h3>
+        @Html.Label("Нет доступа к этой странице")
+    </h3>
+}

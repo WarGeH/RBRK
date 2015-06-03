@@ -1,0 +1,95 @@
+﻿@{
+    Layout = null;
+    List<Homeschooledsystem.Models.Comment> comments = ViewBag.CommentList;
+    List<Homeschooledsystem.Models.Comment> tComments = ViewBag.TeacherComments;
+    var ui = ViewBag.UserId;
+}
+
+<script type="text/javascript">
+    function toRespond(id) {
+        var el = document.getElementById(id + "toComment");
+        if (el.style.display == "none") {
+            el.style.display = "block";
+            // el.style.height = "150px";
+        } else {
+            el.style.display = "none"
+            // el.style.height = "0px";
+        }
+    }
+</script>
+
+<h3>@Html.Label("Комментарии: ")</h3>
+@if (comments.Count > 0)
+{
+    foreach (var c in comments)
+    {
+
+        <div>
+            <div class="col-md-12" style="word-wrap: break-word">
+                <blockquote class="testimonial">
+                    <p>@c.text</p>
+                </blockquote>
+                <div class="testimonial-arrow-down"></div>
+                <div class="testimonial-author">
+                    <p><strong>@c.user.FirstName @c.user.LastName</strong><span> @c.date.ToString("HH:mm:ss dd/MM/yyyy")</span></p>
+                </div>
+            </div>
+            @if (ui == c.user.Id || User.IsInRole("admin"))
+            {
+                @Html.ActionLink("Удалить комментарий", "DeleteComment", new { commentId = c.id })
+            }
+
+
+        </div>
+
+        <div>
+
+            @if (User.IsInRole("teacher") && ViewBag.NeededTeacher)
+            {
+                <a class="btn btn-group-lg" id=@c.id onclick="toRespond(this.id)"> Ответить</a>
+                @*<b id=@c.id onclick="toRespond(this.id)" style="user-select: none;-moz-user-select: -moz-none;-o-user-select: none;-khtml-user-select: none;-webkit-user-select: none; cursor:pointer">  Ответить </b>*@
+            } &nbsp;
+
+        </div>
+
+        <div id="@c.id.ToString()toComment" style="display:none;margin-left: 50px ">
+            @using (Html.BeginForm("AddTeacherComment", "Course", new { courseId = ViewBag.CourseId, prevComment = c.id }, FormMethod.Post, null))
+            {
+
+                <div>
+                    <div>
+                        @Html.TextArea("commentText", new { style = " resize : none; width : 100%;height  : 100px" })
+                    </div>
+                    <br />
+                    <div>
+                        <input class="btn btn-default control-label col-md-2 " type="submit" value="Отправить" />
+                    </div>
+                </div> <br /><br /><br />
+            }
+        </div>
+        <div>
+            @if (tComments.Count > 0)
+            {
+                foreach (var com in tComments)
+                {
+                    if (com.previosComment != null && com.previosComment == c)
+                    {
+                        <div class="col-md-12" style="word-wrap: break-word; margin-left: 100px">
+                            <blockquote style="background: #F57C00;" class="testimonial actions-continue">
+                                <p>@com.text</p>
+                            </blockquote>
+                            <div style="border-top-color: #F57C00;" class="testimonial-arrow-down"></div>
+                            <div  class="testimonial-author">
+                                <p><strong>@com.user.FirstName @com.user.LastName</strong><span> @com.date.ToString("HH:mm:ss dd/MM/yyyy")</span></p>
+                                @if (ui == com.user.Id || User.IsInRole("admin"))
+                                {
+                                    @Html.ActionLink("Удалить комментарий", "DeleteComment", new { commentId = com.id })
+                                }
+                            </div>
+                        </div>
+                    }
+                }
+            }
+        </div>
+    }
+}

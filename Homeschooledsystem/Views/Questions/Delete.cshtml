@@ -1,0 +1,32 @@
+﻿@model Homeschooledsystem.Models.Question
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Вы действительно хотите удалить этот вопрос?</h3>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Text)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Text)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Удалить" class="btn btn-default" /> |
+
+            @Html.ActionLink("Вернуться обратно", "QuestionsList", "Tests", new { lectId = ViewBag.LectId }, null)
+        </div>
+    }
+</div>

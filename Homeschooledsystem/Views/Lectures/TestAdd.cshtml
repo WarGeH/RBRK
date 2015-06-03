@@ -1,0 +1,7 @@
+﻿@model Homeschooledsystem.Models.Course
+@{
+    ViewBag.Title = "TestAdd";
+}
+
+<h2>TestAdd</h2>
+@Html.ActionLink("Добавить тест", "CreateTest", "Tests", new { id = Model.id }, null)

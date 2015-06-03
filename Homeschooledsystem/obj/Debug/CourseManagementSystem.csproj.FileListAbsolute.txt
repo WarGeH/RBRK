@@ -1,0 +1,981 @@
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\CourseManagementSystem.dll.config
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\CourseManagementSystem.dll
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\CourseManagementSystem.pdb
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\Antlr3.Runtime.dll
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\EntityFramework.dll
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.dll
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.dll
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\Newtonsoft.Json.dll
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\Owin.dll
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Helpers.dll
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Mvc.dll
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Optimization.dll
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Razor.dll
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.dll
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\WebGrease.dll
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Helpers.xml
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Mvc.xml
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Optimization.xml
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Razor.xml
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.xml
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\Newtonsoft.Json.xml
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\Antlr3.Runtime.pdb
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\EntityFramework.xml
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.xml
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.xml
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\ru\EntityFramework.resources.dll
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations.InitialCreate.resources
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations.Email.resources
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._1.resources
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._2.resources
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._3.resources
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._4.resources
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._5.resources
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.dll
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.pdb
+C:\Users\Gramm\Documents\Visual Studio 2013\Projects\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\CourseManagementSystem.dll.config
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\CourseManagementSystem.dll
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\CourseManagementSystem.pdb
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Antlr3.Runtime.dll
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\EntityFramework.dll
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.dll
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.dll
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Newtonsoft.Json.dll
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Owin.dll
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Helpers.dll
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Mvc.dll
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Optimization.dll
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Razor.dll
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.dll
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\WebGrease.dll
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Helpers.xml
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Optimization.xml
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Razor.xml
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.xml
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Newtonsoft.Json.xml
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Antlr3.Runtime.pdb
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.xml
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.xml
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\EntityFramework.resources.dll
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations.InitialCreate.resources
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations.Email.resources
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._1.resources
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._2.resources
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._3.resources
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._4.resources
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._5.resources
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.dll
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.pdb
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\CourseManagementSystem.dll.config
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\CourseManagementSystem.dll
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\CourseManagementSystem.pdb
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Antlr3.Runtime.dll
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\EntityFramework.dll
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.dll
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.dll
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Newtonsoft.Json.dll
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Owin.dll
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Helpers.dll
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Mvc.dll
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Optimization.dll
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Razor.dll
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.dll
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\WebGrease.dll
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Helpers.xml
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Mvc.xml
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Optimization.xml
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Razor.xml
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.xml
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Newtonsoft.Json.xml
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Antlr3.Runtime.pdb
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\EntityFramework.xml
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.xml
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.xml
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\EntityFramework.resources.dll
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations.InitialCreate.resources
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations.Email.resources
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._1.resources
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._2.resources
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._3.resources
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._4.resources
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._5.resources
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._6.resources
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.dll
+C:\Users\Danil\Documents\Visual Studio 2013\Projects\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.pdb
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\CourseManagementSystem.dll.config
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\CourseManagementSystem.dll
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\CourseManagementSystem.pdb
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Antlr3.Runtime.dll
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\EntityFramework.dll
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.dll
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.dll
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Newtonsoft.Json.dll
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Owin.dll
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Helpers.dll
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Mvc.dll
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Optimization.dll
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Razor.dll
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.dll
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\WebGrease.dll
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Helpers.xml
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Mvc.xml
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Optimization.xml
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Razor.xml
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.xml
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Newtonsoft.Json.xml
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Antlr3.Runtime.pdb
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\EntityFramework.xml
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.xml
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.xml
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\EntityFramework.resources.dll
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations.InitialCreate.resources
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations.Email.resources
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._1.resources
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._2.resources
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._3.resources
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._4.resources
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._5.resources
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._6.resources
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.dll
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.pdb
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ShortGuid.dll
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._7.resources
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._8.resources
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._9.resources
+C:\Users\Gramm\Desktop\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._10.resources
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\CourseManagementSystem.dll.config
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\CourseManagementSystem.dll
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\CourseManagementSystem.pdb
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Antlr3.Runtime.dll
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\EntityFramework.dll
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.dll
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.dll
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Newtonsoft.Json.dll
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Owin.dll
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ShortGuid.dll
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Helpers.dll
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Mvc.dll
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Optimization.dll
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Razor.dll
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.dll
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\WebGrease.dll
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Helpers.xml
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Mvc.xml
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Optimization.xml
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Razor.xml
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.xml
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Newtonsoft.Json.xml
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Antlr3.Runtime.pdb
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\EntityFramework.xml
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.xml
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.xml
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\EntityFramework.resources.dll
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations.InitialCreate.resources
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations.Email.resources
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._1.resources
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._2.resources
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._3.resources
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._4.resources
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._5.resources
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._6.resources
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._7.resources
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._8.resources
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._9.resources
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._10.resources
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.dll
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.pdb
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\CourseManagementSystem.dll.config
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\CourseManagementSystem.dll
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\CourseManagementSystem.pdb
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\Antlr3.Runtime.dll
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\EntityFramework.dll
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.dll
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.dll
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\Newtonsoft.Json.dll
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\Owin.dll
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\ShortGuid.dll
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Helpers.dll
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Mvc.dll
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Optimization.dll
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Razor.dll
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.dll
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\WebGrease.dll
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Helpers.xml
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Mvc.xml
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Optimization.xml
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Razor.xml
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.xml
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\Newtonsoft.Json.xml
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\Antlr3.Runtime.pdb
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\EntityFramework.xml
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.xml
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.xml
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\ru\EntityFramework.resources.dll
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations.InitialCreate.resources
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations.Email.resources
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._1.resources
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._2.resources
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._3.resources
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._4.resources
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._5.resources
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._6.resources
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._7.resources
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._8.resources
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._9.resources
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._10.resources
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.dll
+C:\Users\Андрей\Documents\GitHub\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.pdb
+C:\Users\Андрей\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ShortGuid.dll
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._6.resources
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._7.resources
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._8.resources
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._9.resources
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._10.resources
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._11.resources
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations.MigrateDB.resources
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\CourseManagementSystem.dll.config
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\CourseManagementSystem.dll
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\CourseManagementSystem.pdb
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Antlr3.Runtime.dll
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\EntityFramework.dll
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\EntityFramework.SqlServer.dll
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.dll
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.dll
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Newtonsoft.Json.dll
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Owin.dll
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Helpers.dll
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Mvc.dll
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Optimization.dll
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Razor.dll
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.Deployment.dll
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.dll
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.Razor.dll
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\WebGrease.dll
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Helpers.xml
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Mvc.xml
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Optimization.xml
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Razor.xml
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.xml
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.Deployment.xml
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.Razor.xml
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Newtonsoft.Json.xml
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Antlr3.Runtime.pdb
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\EntityFramework.xml
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\EntityFramework.SqlServer.xml
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.xml
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.xml
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.Helpers.resources.dll
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.Mvc.resources.dll
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.Optimization.resources.dll
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.Razor.resources.dll
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.WebPages.resources.dll
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\EntityFramework.resources.dll
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.resources.dll
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations.InitialCreate.resources
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations.Email.resources
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._1.resources
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._2.resources
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._3.resources
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._4.resources
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._5.resources
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._6.resources
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._7.resources
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._8.resources
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._9.resources
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._10.resources
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._11.resources
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations.MigrateDB.resources
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._12.resources
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.csproj.GenerateResource.Cache
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.dll
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.pdb
+C:\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\CourseManagementSystem.dll.config
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\CourseManagementSystem.dll
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\CourseManagementSystem.pdb
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Antlr3.Runtime.dll
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\EntityFramework.dll
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.dll
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.dll
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Newtonsoft.Json.dll
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Owin.dll
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ShortGuid.dll
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Helpers.dll
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Mvc.dll
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Optimization.dll
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Razor.dll
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.dll
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\WebGrease.dll
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Helpers.xml
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Mvc.xml
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Optimization.xml
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Razor.xml
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.xml
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Newtonsoft.Json.xml
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Antlr3.Runtime.pdb
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\EntityFramework.xml
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.xml
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.xml
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\EntityFramework.resources.dll
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations.InitialCreate.resources
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations.Email.resources
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._1.resources
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._2.resources
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._3.resources
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._4.resources
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._5.resources
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._6.resources
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._7.resources
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._8.resources
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._9.resources
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._10.resources
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._11.resources
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations.MigrateDB.resources
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._12.resources
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.dll
+C:\Users\Danil\Desktop\CMS1\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.pdb
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._12.resources
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations.MigrateDB1.resources
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations.MigrateDB2.resources
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\CourseManagementSystem.dll.config
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\CourseManagementSystem.dll
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\CourseManagementSystem.pdb
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Antlr3.Runtime.dll
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\EntityFramework.dll
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.dll
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.dll
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Newtonsoft.Json.dll
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Owin.dll
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ShortGuid.dll
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Helpers.dll
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Mvc.dll
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Optimization.dll
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Razor.dll
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.dll
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\WebGrease.dll
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Helpers.xml
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Mvc.xml
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Optimization.xml
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Razor.xml
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.xml
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Newtonsoft.Json.xml
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Antlr3.Runtime.pdb
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\EntityFramework.xml
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.xml
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.xml
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\EntityFramework.resources.dll
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations.InitialCreate.resources
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations.Email.resources
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._1.resources
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._2.resources
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._3.resources
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._4.resources
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._5.resources
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._6.resources
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._7.resources
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._8.resources
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._9.resources
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._10.resources
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._11.resources
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations.MigrateDB.resources
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._12.resources
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations.MigrateDB1.resources
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations.MigrateDB2.resources
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.dll
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.pdb
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations.TestD.resources
+C:\Users\Danil\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations.TestD2.resources
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations.TestD.resources
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations.TestD2.resources
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\CourseManagementSystem.dll.config
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\CourseManagementSystem.dll
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\CourseManagementSystem.pdb
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Antlr3.Runtime.dll
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\EntityFramework.dll
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.dll
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.dll
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Newtonsoft.Json.dll
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Owin.dll
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ShortGuid.dll
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Helpers.dll
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Mvc.dll
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Optimization.dll
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Razor.dll
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.dll
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\WebGrease.dll
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Helpers.xml
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Optimization.xml
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Razor.xml
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.xml
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Newtonsoft.Json.xml
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Antlr3.Runtime.pdb
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.xml
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.xml
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.Razor.resources.dll
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\EntityFramework.resources.dll
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations.InitialCreate.resources
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations.Email.resources
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._1.resources
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._2.resources
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._3.resources
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._4.resources
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._5.resources
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._6.resources
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._7.resources
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._8.resources
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._9.resources
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._10.resources
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._11.resources
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations.MigrateDB.resources
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._12.resources
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations.MigrateDB1.resources
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations.MigrateDB2.resources
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations.TestD.resources
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations.TestD2.resources
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.csproj.GenerateResource.Cache
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.dll
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.pdb
+C:\Users\msworkacc\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations.comment.resources
+C:\Users\Andrew\Documents\GitHub\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations.comment.resources
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\CourseManagementSystem.dll.config
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\CourseManagementSystem.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\CourseManagementSystem.pdb
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Antlr3.Runtime.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\EntityFramework.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Newtonsoft.Json.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Owin.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ShortGuid.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Helpers.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Mvc.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Optimization.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Razor.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\WebGrease.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Helpers.xml
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Optimization.xml
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.Razor.xml
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.xml
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Newtonsoft.Json.xml
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Antlr3.Runtime.pdb
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.xml
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.xml
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\EntityFramework.resources.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations.InitialCreate.resources
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations.Email.resources
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._1.resources
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._2.resources
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._3.resources
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._4.resources
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._5.resources
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._6.resources
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._7.resources
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._8.resources
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._9.resources
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._10.resources
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._11.resources
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations.MigrateDB.resources
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations._12.resources
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations.MigrateDB1.resources
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations.MigrateDB2.resources
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations.TestD.resources
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations.TestD2.resources
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations.comment.resources
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.pdb
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\CourseManagementSystem\obj\Debug\CourseManagementSystem.Migrations.MigrateDB3.resources

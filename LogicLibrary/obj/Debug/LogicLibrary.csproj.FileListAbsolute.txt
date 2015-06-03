@@ -1,0 +1,39 @@
+C:\Users\Andrew\Desktop\Homeschooledsystem\LogicLibrary\bin\Debug\LogicLibrary.dll
+C:\Users\Andrew\Desktop\Homeschooledsystem\LogicLibrary\bin\Debug\LogicLibrary.pdb
+C:\Users\Andrew\Desktop\Homeschooledsystem\LogicLibrary\bin\Debug\Microsoft.Owin.dll
+C:\Users\Andrew\Desktop\Homeschooledsystem\LogicLibrary\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Andrew\Desktop\Homeschooledsystem\LogicLibrary\bin\Debug\Owin.dll
+C:\Users\Andrew\Desktop\Homeschooledsystem\LogicLibrary\bin\Debug\Microsoft.Owin.xml
+C:\Users\Andrew\Desktop\Homeschooledsystem\LogicLibrary\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Andrew\Desktop\Homeschooledsystem\LogicLibrary\bin\Debug\ru\Microsoft.Owin.resources.dll
+C:\Users\Andrew\Desktop\Homeschooledsystem\LogicLibrary\bin\Debug\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\Andrew\Desktop\Homeschooledsystem\LogicLibrary\obj\Debug\LogicLibrary.dll
+C:\Users\Andrew\Desktop\Homeschooledsystem\LogicLibrary\obj\Debug\LogicLibrary.pdb
+C:\Users\Andrew\Desktop\Homeschooledsystem\LogicLibrary\bin\Debug\LogicLibrary.dll.config
+C:\Users\Andrew\Desktop\Homeschooledsystem\LogicLibrary\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Andrew\Desktop\Homeschooledsystem\LogicLibrary\bin\Debug\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Andrew\Desktop\Homeschooledsystem\LogicLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Andrew\Desktop\Homeschooledsystem\LogicLibrary\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\Andrew\Desktop\Homeschooledsystem\LogicLibrary\bin\Debug\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Andrew\Desktop\Homeschooledsystem\LogicLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Andrew\Desktop\Homeschooledsystem\LogicLibrary\bin\Debug\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\LogicLibrary\bin\Debug\LogicLibrary.dll.config
+C:\Users\Andrew\Desktop\Новая папка (5)\LogicLibrary\bin\Debug\LogicLibrary.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\LogicLibrary\bin\Debug\LogicLibrary.pdb
+C:\Users\Andrew\Desktop\Новая папка (5)\LogicLibrary\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\LogicLibrary\bin\Debug\Microsoft.Owin.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\LogicLibrary\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\LogicLibrary\bin\Debug\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\LogicLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\LogicLibrary\bin\Debug\Owin.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\LogicLibrary\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\Andrew\Desktop\Новая папка (5)\LogicLibrary\bin\Debug\Microsoft.Owin.xml
+C:\Users\Andrew\Desktop\Новая папка (5)\LogicLibrary\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Andrew\Desktop\Новая папка (5)\LogicLibrary\bin\Debug\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Andrew\Desktop\Новая папка (5)\LogicLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Andrew\Desktop\Новая папка (5)\LogicLibrary\bin\Debug\ru\Microsoft.Owin.resources.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\LogicLibrary\bin\Debug\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\LogicLibrary\bin\Debug\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\LogicLibrary\obj\Debug\LogicLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\Новая папка (5)\LogicLibrary\obj\Debug\LogicLibrary.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\LogicLibrary\obj\Debug\LogicLibrary.pdb

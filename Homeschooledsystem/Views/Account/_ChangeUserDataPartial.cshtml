@@ -1,0 +1,40 @@
+﻿@using Microsoft.AspNet.Identity
+@using Microsoft.AspNet.Identity.EntityFramework;
+@using Homeschooledsystem.Models;
+@model Homeschooledsystem.Models.UserDataViewModel
+
+@using (Html.BeginForm("ChangeUserData", "Account", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+{
+    var manager = new UserManager<ApplicationUser>(new UserStore<ApplicationUser>(new ApplicationDbContext()));
+    var currentUser = manager.FindById(User.Identity.GetUserId());
+    
+    @Html.AntiForgeryToken()
+    <h4>Изменить данные</h4>
+    <hr />
+    @Html.ValidationSummary()
+    <div class="form-group">
+        @Html.LabelFor(m => m.Email, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.TextBoxFor(m => m.Email, new { @class = "form-control", @Value = currentUser.Email})
+        </div>
+    </div> 
+    <div class="form-group">
+        @Html.LabelFor(m => m.FirstName, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.TextBoxFor(m => m.FirstName, new { @class = "form-control", @Value = currentUser.FirstName})
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.LastName, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.TextBoxFor(m => m.LastName, new { @class = "form-control", @Value = currentUser.LastName})
+        </div>
+    </div>
+    
+    
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Изменить данные" class="btn btn-default" />
+        </div>
+    </div>
+}

@@ -1,0 +1,38 @@
+﻿@using Homeschooledsystem.Models
+@model Search
+@{
+    var category = new ApplicationDbContext().Categories;
+    Model.category_id = 0;
+    Model.sort_field = "name";
+}@Scripts.Render("~/scripts/CreateTest/Engine.js")
+
+<select id="mysel" onchange="changeSearch()" class="selectSt" style="padding-bottom:5px; padding-top:5px; height:35px;">
+    <option>Поиск курса</option>
+    <option>Поиск пользователя</option>
+</select>
+@using (Html.BeginForm("Search", "Course", Model, FormMethod.Post, new { style = "float:right; width:171px;", id = "courseSearchForm" }))
+{
+    <div >
+        <div class="input-group">
+            @Html.TextBoxFor(model => model.keywords, new { @class = "form-control search", name = "q", id = "q", style = "width:171px;", placeholder = "Поиск..." })
+
+            <span class="input-group-btn">
+                <button class="btn btn-default" type="submit"><i class="icon icon-search"></i></button>
+            </span>
+        </div>
+    </div>
+}
+
+<form class="input-group" method="get" action="/Search" style="float: right; width: 171px;">
+
+    <div id="userSearchForm" style="display:none">
+        <div class="input-group">
+            <input name="search" type="text" style="max-width: none; width: 171px; " class="form-control search" placeholder="Поиск...">
+
+            <span class="input-group-btn">
+                <button class="btn btn-default" type="submit"><i class="icon icon-search"></i></button>
+            </span>
+        </div>
+    </div>
+
+</form><!-- /input-group -->

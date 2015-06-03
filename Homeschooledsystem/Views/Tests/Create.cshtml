@@ -1,0 +1,54 @@
+﻿@model Homeschooledsystem.Models.Test
+
+@{
+    ViewBag.Title = "Create";
+}
+@if (User.IsInRole("teacher") && ViewBag.Teacher) {
+<h2>Create</h2>
+    <style>
+        .body {
+            height: 600px;
+        }
+    </style>
+    using (Html.BeginForm())
+    {
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <h4>Test</h4>
+        <hr />
+        @Html.ValidationSummary(true)
+        <div class="form-group">
+            @Html.LabelFor(model => model.LastLectureId, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.LastLectureId)
+                @Html.ValidationMessageFor(model => model.LastLectureId)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Number, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Number)
+                @Html.ValidationMessageFor(model => model.Number)
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+}
+else
+{
+    <h3>
+        @Html.Label("Нет доступа к этой странице")
+    </h3>
+}

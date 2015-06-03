@@ -1,0 +1,46 @@
+﻿@using Homeschooledsystem.Models;
+@model Homeschooledsystem.Models.Lecture
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title></title>
+    <style>
+        #preview{
+            background:white;
+            width:80%;
+            height:80%;
+         
+            box-shadow: 0 0 10px rgba(0,0,0,0.5); 
+            position:absolute;
+            left:10%;
+            right:10%;
+        }
+        #previewFrame{
+            width:100%;
+            height:99%;
+        }
+         .body {
+            height: 600px;
+        }
+    </style>
+</head>
+<body>
+    <div style="position:absolute;left:2%;width:8%;height:100%;">
+        <a href="/Course/View/@Model.CourseId"><button type="button" class="btn btn-default btn-lg">
+    Назад
+</button></a>
+        
+    </div>
+    <div id="preview">
+        <iframe id="previewFrame" frameborder="0"></iframe>
+    </div>
+    @if(@Model.Text !=null)
+    {
+    <script>   
+    document.getElementById("previewFrame").contentWindow.document.body.innerHTML = "@Html.Raw(@Server.HtmlDecode(@Model.Text).Replace('"','\''))";
+    </script>
+    }
+</body>
+</html>

@@ -1,0 +1,87 @@
+﻿@{
+    ViewBag.Title = "Retake";
+    IEnumerable<Homeschooledsystem.Models.Question>
+
+        questions = ViewBag.Questions;
+    int qnum = 1;
+}
+
+<script src="/Scripts/testing.js"></script>
+<style>
+    .body {
+        height: 600px;
+    }
+</style>
+
+
+@model Homeschooledsystem.Models.Mark
+
+
+<form action="/Testing/Retake" method="post" class="test">
+
+
+    @if (questions.Count() > 0)
+    {
+        <table class="table">
+
+            @foreach (var item in questions)
+            {
+                <tr>
+                    <td>
+
+                        <h4>
+                            @qnum ) @Html.DisplayFor(modelItem => item.Text)
+                        </h4>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+
+                        <div class="newsletter">
+                            <p>
+                                <font id="fontawesomeregular">
+                                    @if (item.Answer.Count(a => a.IsTrue) == 1)
+                                    {
+                                        int i = 0;
+                                        foreach (var itemAnswers in item.Answer)
+                                        {
+
+                                            <input style="margin-left: 10px;" type="radio" id="@itemAnswers.QuestionId" name="@itemAnswers.QuestionId" value="@itemAnswers.Id" />
+                                            <span>@itemAnswers.Text</span><br>
+                                        }
+                                        qnum++;
+                                    }
+                                    else
+                                    {
+
+                                        int i = 0;
+                                        foreach (var itemAnswers in item.Answer)
+                                        {
+                                            <input style="margin-left: 10px;" type="checkbox" id="@itemAnswers.QuestionId" name="@itemAnswers.QuestionId" value="@itemAnswers.Id" onclick="andr(@itemAnswers.QuestionId)" />
+                                            <span>@itemAnswers.Text</span><br>
+                                        }
+                                    }
+
+                                    
+                                </font>
+                            </p>
+                        </div>
+                    </td>
+                </tr>
+            }
+        </table>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Завершить тест" class="btn btn-default" />
+            </div>
+        </div>
+    }
+    else
+    {
+        <hr />
+        <p style="color: #808080; text-align: left">
+            Здесь пока ещё нет вопросов
+        </p>
+    }
+</form>

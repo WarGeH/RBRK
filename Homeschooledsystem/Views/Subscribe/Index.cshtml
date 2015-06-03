@@ -1,0 +1,44 @@
+﻿@model IEnumerable<Homeschooledsystem.Models.Subscription>
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+
+    <h2>Мои курсы</h2>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Course.name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Course.Category.Name)
+            </th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Course.name)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.Course.Category.Name)
+                </td>
+
+                <td>
+                    @Html.ActionLink("Подробнее", "View", "Course",  new { id = item.Course.id }, null) |
+                    @Html.ActionLink("Удалить", "Delete", new { id = item.SubscriptionId })
+                </td>
+            </tr>
+        }
+
+    </table>
+</body>
+</html>

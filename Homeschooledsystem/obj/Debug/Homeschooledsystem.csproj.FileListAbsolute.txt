@@ -1,0 +1,230 @@
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\Homeschooledsystem.dll.config
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\Homeschooledsystem.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\Homeschooledsystem.pdb
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\Antlr3.Runtime.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\EntityFramework.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\EntityFramework.SqlServer.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\Microsoft.Owin.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\Microsoft.Owin.Security.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\Newtonsoft.Json.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\Owin.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\ShortGuid.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\System.Web.Helpers.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\System.Web.Mvc.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\System.Web.Optimization.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\System.Web.Razor.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\System.Web.WebPages.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\WebGrease.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\System.Web.Helpers.xml
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\System.Web.Optimization.xml
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\System.Web.Razor.xml
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\System.Web.WebPages.xml
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\Newtonsoft.Json.xml
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\Antlr3.Runtime.pdb
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\EntityFramework.SqlServer.xml
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\Microsoft.Owin.xml
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\Microsoft.Owin.Security.xml
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\ru\EntityFramework.resources.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\obj\Debug\Homeschooledsystem.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\obj\Debug\Homeschooledsystem.dll
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\obj\Debug\Homeschooledsystem.pdb
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\obj\Debug\Homeschooledsystem.Migrations.sds.resources
+C:\Users\Andrew\Desktop\Course-Management-System\CourseManagementSystem\Homeschooledsystem\obj\Debug\Homeschooledsystem.csproj.GenerateResource.Cache
+C:\Users\Andrew\Desktop\Homeschooledsystem\Homeschooledsystem\obj\Debug\Homeschooledsystem.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\Homeschooledsystem\Homeschooledsystem\obj\Debug\Homeschooledsystem.Migrations.sds.resources
+C:\Users\Andrew\Desktop\Homeschooledsystem\Homeschooledsystem\obj\Debug\Homeschooledsystem.csproj.GenerateResource.Cache
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\obj\Debug\Homeschooledsystem.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\obj\Debug\Homeschooledsystem.Migrations.sds.resources
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\obj\Debug\Homeschooledsystem.csproj.GenerateResource.Cache
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\Homeschooledsystem.dll.config
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\Homeschooledsystem.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\Homeschooledsystem.pdb
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\Antlr3.Runtime.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\EntityFramework.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\EntityFramework.SqlServer.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\Microsoft.Owin.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\Microsoft.Owin.Security.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\Newtonsoft.Json.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\Owin.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\ShortGuid.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\System.Web.Helpers.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\System.Web.Mvc.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\System.Web.Optimization.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\System.Web.Razor.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\System.Web.WebPages.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\WebGrease.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\Microsoft.Owin.xml
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\Microsoft.Owin.Security.xml
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\System.Web.Helpers.xml
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\System.Web.Mvc.xml
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\System.Web.Optimization.xml
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\System.Web.Razor.xml
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\System.Web.WebPages.xml
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\Newtonsoft.Json.xml
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\Antlr3.Runtime.pdb
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\EntityFramework.xml
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\EntityFramework.SqlServer.xml
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\ru\EntityFramework.resources.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\obj\Debug\Homeschooledsystem.dll
+C:\Users\Andrew\Desktop\Новая папка (5)\Homeschooledsystem\obj\Debug\Homeschooledsystem.pdb
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\Homeschooledsystem.dll.config
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\Homeschooledsystem.dll
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\Homeschooledsystem.pdb
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\Antlr3.Runtime.dll
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\EntityFramework.dll
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\EntityFramework.SqlServer.dll
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\Microsoft.Owin.dll
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\Microsoft.Owin.Security.dll
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\Newtonsoft.Json.dll
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\Owin.dll
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\ShortGuid.dll
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\System.Web.Helpers.dll
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\System.Web.Mvc.dll
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\System.Web.Optimization.dll
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\System.Web.Razor.dll
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\System.Web.WebPages.dll
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\WebGrease.dll
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\Microsoft.Owin.xml
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\Microsoft.Owin.Security.xml
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\System.Web.Helpers.xml
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\System.Web.Mvc.xml
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\System.Web.Optimization.xml
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\System.Web.Razor.xml
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\System.Web.WebPages.xml
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\Newtonsoft.Json.xml
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\Antlr3.Runtime.pdb
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\EntityFramework.xml
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\EntityFramework.SqlServer.xml
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\ru\EntityFramework.resources.dll
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\obj\Debug\Homeschooledsystem.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\obj\Debug\Homeschooledsystem.Migrations.sds.resources
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\obj\Debug\Homeschooledsystem.csproj.GenerateResource.Cache
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\obj\Debug\Homeschooledsystem.dll
+C:\Users\Andrew\Desktop\Last\Новая папка (5)\Homeschooledsystem\obj\Debug\Homeschooledsystem.pdb

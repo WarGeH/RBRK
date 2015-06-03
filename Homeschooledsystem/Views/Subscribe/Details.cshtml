@@ -1,0 +1,91 @@
+﻿@using Homeschooledsystem.Migrations
+@using Homeschooledsystem.Models
+@model List<Homeschooledsystem.Models.Lecture>
+
+
+@{
+    ViewBag.Title = "Details";
+    List<Homeschooledsystem.Models.Lecture>
+    subscription = ViewBag.Sunscription;
+    var db = new ApplicationDbContext();
+    bool isFinal = ViewBag.IsFinal;
+    Layout = null;
+
+}
+
+@*<div class="col-md-4 " style="border-right:1px solid #eeeeee">*@
+<h2>Лекции</h2>
+
+
+
+@*<span style="padding:0px 5px;">Название</span><span style="padding:0px 700px;">Оценка</span>*@
+
+@if (Model.Count() > 0) {
+<table class="table">
+    @*<div style="padding-top:10px">*@
+
+    @foreach (var item in Model)
+    {
+        bool isEmpty = false;
+        bool isPassed = false;
+        bool isRetake = false;
+        var Test = db.Test.Where(t => t.Lecture.Id == item.Id);
+        if (Test.Any())
+        {
+            isEmpty = true;
+            if (db.Mark.FirstOrDefault(m => m.Test.Id == Test.FirstOrDefault().Id) != null && db.Mark.FirstOrDefault(m => m.Test.Id == Test.FirstOrDefault().Id).Value >= 60)
+            {
+                isPassed = true;
+            }
+            else if (db.Mark.FirstOrDefault(m => m.Test.Id == Test.FirstOrDefault().Id) != null && db.Mark.FirstOrDefault(m => m.Test.Id == Test.FirstOrDefault().Id).Value < 60)
+            {
+                isRetake = true;
+            }
+        }
+        <tr>
+            @*<td>
+                    @Html.DisplayFor(modelItem => item.Number)
+                </td>*@
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                <div style="float:right">
+                    @if (isEmpty)
+                    {
+                        if (isPassed)
+                        {
+                            <text>Пройден</text>
+
+                        }
+                        else if (isRetake)
+                        {
+                            @Html.ActionLink("Пересдать тест", "Retake", "Testing", new { lectId = item.Id }, null)
+                        }
+                        else
+                        {
+                            @Html.ActionLink("Пройти тест", "Question", "Testing", new { lectId = item.Id }, null)
+                        }
+                    }
+                   
+                </div>
+            </td>
+        </tr>
+    }
+    @if (1>1)
+    {
+        @Html.ActionLink("Получить сертификат", "Certificate", "Subscribe", new { courseId = ViewBag.CourseId }, null)
+    }
+
+    @*</div>*@
+</table>
+}
+else
+{
+    <hr />
+    <p style="color:#808080; text-align:center">
+        Здесь пока ещё нет лекций</p>
+}
+
+@*</div>*@
+

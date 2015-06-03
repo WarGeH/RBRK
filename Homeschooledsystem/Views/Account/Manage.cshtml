@@ -1,0 +1,61 @@
+﻿@using Homeschooledsystem.Models;
+@using Microsoft.AspNet.Identity;
+@{
+    ViewBag.Title = "Управление учетной записью";
+
+    if (HttpContext.Current.User.IsInRole("student"))
+    {
+        ViewBag.Role = "Студентом";
+    }
+    else if (HttpContext.Current.User.IsInRole("teacher"))
+    {
+        ViewBag.Role = "Преподавателем";
+    }
+    else if (HttpContext.Current.User.IsInRole("admin"))
+    {
+        ViewBag.Role = "Администратором";
+    }
+}
+
+<h2>@ViewBag.Title.</h2>
+<style>
+    input[type=text] {
+        width: 300px;
+    }
+
+    input[type=password] {
+        width: 300px;
+    }
+</style>
+<p>Вы вошли как <strong>@User.Identity.GetUserName()</strong>. Вы являетесь 
+    <strong>
+        @ViewBag.Role
+    </strong>
+ в нашей системе.</p><br />
+<p class="text-success">@ViewBag.StatusMessage</p>
+<div class="row">
+    <div class="col-md-12">
+        @Html.Partial("_ChangeUserDataPartial")
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+        @if (ViewBag.HasLocalPassword)
+        {
+            @Html.Partial("_ChangePasswordPartial")
+        }
+        else
+        {
+            @Html.Partial("_SetPasswordPartial")
+        }
+
+        <section id="externalLogins">
+            @Html.Action("RemoveAccountList")
+            @Html.Partial("_ExternalLoginsListPartial", new { Action = "LinkLogin", ReturnUrl = ViewBag.ReturnUrl })
+        </section>
+    </div>
+</div>
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

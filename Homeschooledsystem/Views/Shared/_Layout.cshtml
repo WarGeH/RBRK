@@ -1,0 +1,381 @@
+﻿<head>
+    <!-- Basic -->
+
+
+    <!-- Mobile Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Web Fonts  -->
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800|Shadows+Into+Light" rel="stylesheet" type="text/css">
+
+    <!-- Libs CSS -->
+    <link rel="stylesheet" href="~/css/bootstrap.css">
+    <link rel="stylesheet" href="~/css/fonts/font-awesome/css/font-awesome.css">
+    <link rel="stylesheet" href="~/vendor/owl-carousel/owl.carousel.css" media="screen">
+    <link rel="stylesheet" href="~/vendor/owl-carousel/owl.theme.css" media="screen">
+    <link rel="stylesheet" href="~/vendor/magnific-popup/magnific-popup.css" media="screen">
+
+    <!-- Theme CSS -->
+    <link rel="stylesheet" href="~/css/theme.css">
+    <link rel="stylesheet" href="~/css/theme-elements.css">
+    <link rel="stylesheet" href="~/css/theme-animate.css">
+
+    <!-- Current Page Styles -->
+    <link rel="stylesheet" href="~/vendor/rs-plugin/css/settings.css" media="screen">
+    <link rel="stylesheet" href="~/vendor/circle-flip-slideshow/css/component.css" media="screen">
+
+    <!-- Skin CSS -->
+    <link rel="stylesheet" href="~/css/skins/blue.css">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="~/css/custom.css">
+
+    <!-- Responsive CSS -->
+    <link rel="stylesheet" href="~/css/theme-responsive.css" />
+
+    <!-- Head Libs -->
+    <script src="~/vendor/modernizr.js"></script>
+
+
+    <link rel="stylesheet" href="~/css/ie.css">
+
+    <script src="~/vendor/respond.js"></script>
+</head>
+@{
+    string path = "/img/logo.png";
+}
+<header>
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+    @*@Styles.Render("~/Content/css")
+        @Scripts.Render("~/bundles/modernizr")*@
+
+    <div class="container">
+        <h1 class="logo">
+
+        
+        </h1>
+        @*<div class="search" style="width:375px; height:45px;">
+            @Html.Partial("_SearchPartial", new CourseManagementSystem.Models.Search())
+        </div>*@
+        <nav>
+            <ul class="nav nav-pills nav-top">
+
+          
+                <li class="phone">
+                    <span><i class="icon icon-phone"></i>(050) 67 35 103</span>
+                </li>
+            </ul>
+        </nav>
+        <button class="btn btn-responsive-nav btn-inverse" data-toggle="collapse" data-target=".nav-main-collapse">
+            <i class="icon icon-bars"></i>
+        </button>
+    </div>
+    <div class="navbar-collapse nav-main-collapse collapse">
+        <div class="container">
+
+            <div class="social-icons">
+
+                <ul class="social-icons">
+                    <li class="facebook"><a href="http://www.facebook.com/" target="_blank" title="Facebook">Facebook</a></li>
+                    <li class="vk"><a href="https://vk.com/wargeh" target="_blank" title="VK">VK</a></li>
+                    <li class="googleplus"><a href="https://plus.google.com/u/0/108996404362581622692/posts" target="_blank" title="Googleplus">Googleplus</a></li>
+                </ul>
+            </div>
+           
+            @Html.Partial("_LoginPartial")
+            <nav class="nav-main mega-menu">
+                <ul class="nav nav-pills nav-main" id="mainMenu">
+                    @*<li class="dropdown active">
+                            <a class="dropdown-toggle" href="#">
+                                Home
+                                <i class="icon icon-angle-down"></i>
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li class="dropdown-submenu">
+                                    <a href="#">Sliders</a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="index.html">Revolution Slider</a></li>
+                                        <li><a href="index-slider-2.html">Nivo Slider</a></li>
+                                    </ul>
+                                </li>
+                                <li><a href="index.html">Home - Default</a></li>
+                                <li><a href="index-2.html">Home - Color</a></li>
+                                <li><a href="index-3.html">Home - Light</a></li>
+                                <li><a href="index-4.html">Home - Video</a></li>
+                                <li><a href="index-5.html">Home - Video - Light</a></li>
+                                <li><a href="index-one-page.html">One Page Website</a></li>
+                            </ul>
+                        </li>*@
+
+                    <li>
+                        @Html.ActionLink("Все курсы", "List", "Course")
+                    </li>
+
+                    @if (User.IsInRole("teacher"))
+                    {
+                        <li>@Html.ActionLink("Мои курсы", "Teacher", "Course")</li>
+                    }
+                    @if (User.IsInRole("admin"))
+                    {
+                        <li>@Html.ActionLink("Заявки", "Requests", "Course")</li>
+
+                    }
+                    @if (User.IsInRole("student"))
+                    {
+                        <li>@Html.ActionLink("Мои оценки", "Student", "Mark")</li>
+
+                    }
+                    @if (User.IsInRole("student"))
+                    {
+                        <li>@Html.ActionLink("Мои курсы", "Index", "Subscribe")</li>
+
+                    }
+                    @*<li>
+                        @Html.ActionLink("Топ преподователей", "TopLecturers", "Account")
+                    </li>*@
+                    @*<li class="dropdown">
+                            <a class="dropdown-toggle" href="#">
+                                About Us
+                                <i class="icon icon-angle-down"></i>
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li><a href="about-us.html">About Us</a></li>
+                                <li><a href="about-us-basic.html">About Us - Basic</a></li>
+                                <li><a href="about-me.html">About Me</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown mega-menu-item mega-menu-fullwidth">
+                            <a class="dropdown-toggle" href="#">
+                                Features
+                                <i class="icon icon-angle-down"></i>
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li>
+                                    <div class="mega-menu-content">
+                                        <div class="row">
+                                            <div class="col-md-3">
+                                                <ul class="sub-menu">
+                                                    <li>
+                                                        <span class="mega-menu-sub-title">Main Features</span>
+                                                        <ul class="sub-menu">
+                                                            <li><a href="feature-pricing-tables.html">Pricing Tables</a></li>
+                                                            <li><a href="feature-icons.html">Icons</a></li>
+                                                            <li><a href="feature-animations.html">Animations</a></li>
+                                                            <li><a href="feature-typograpy.html">Typograpy</a></li>
+                                                            <li><a href="feature-grid-system.html">Grid System</a></li>
+                                                        </ul>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <div class="col-md-3">
+                                                <ul class="sub-menu">
+                                                    <li>
+                                                        <span class="mega-menu-sub-title">Headers</span>
+                                                        <ul class="sub-menu">
+                                                            <li><a href="index.html">Header Version 1</a></li>
+                                                            <li><a href="index-header-2.html">Header Version 2</a></li>
+                                                            <li><a href="index-header-3.html">Header Version 3</a></li>
+                                                            <li><a href="index-header-4.html">Header Version 4</a></li>
+                                                            <li><a href="index-header-5.html">Header Version 5</a></li>
+                                                            <li><a href="index-header-6.html">Header Version 6</a></li>
+                                                            <li><a href="index-header-7.html">Header Version 7</a></li>
+                                                            <li><a href="index-header-signin.html">Header - Sign In / Sign Up</a></li>
+                                                            <li><a href="index-header-logged.html">Header - Logged</a></li>
+                                                        </ul>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <div class="col-md-3">
+                                                <ul class="sub-menu">
+                                                    <li>
+                                                        <span class="mega-menu-sub-title">Footers</span>
+                                                        <ul class="sub-menu">
+                                                            <li><a href="index.html#footer">Footer Version 1</a></li>
+                                                            <li><a href="index-footer-2.html#footer">Footer Version 2</a></li>
+                                                            <li><a href="index-footer-3.html#footer">Footer Version 3</a></li>
+                                                            <li><a href="index-footer-4.html#footer">Footer Version 4</a></li>
+                                                        </ul>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <div class="col-md-3">
+                                                <ul class="sub-menu">
+                                                    <li>
+                                                        <span class="mega-menu-sub-title">Blog</span>
+                                                        <ul class="sub-menu">
+                                                            <li><a href="blog-full-width.html">Blog Full Width</a></li>
+                                                            <li><a href="blog-large-image.html">Blog Large Image</a></li>
+                                                            <li><a href="blog-medium-image.html">Blog Medium Image</a></li>
+                                                            <li><a href="blog-timeline.html">Blog Timeline</a></li>
+                                                            <li><a href="blog-post.html">Single Post</a></li>
+                                                        </ul>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a class="dropdown-toggle" href="#">
+                                Portfolio
+                                <i class="icon icon-angle-down"></i>
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li><a href="portfolio-4-columns.html">4 Columns</a></li>
+                                <li><a href="portfolio-3-columns.html">3 Columns</a></li>
+                                <li><a href="portfolio-2-columns.html">2 Columns</a></li>
+                                <li><a href="portfolio-timeline.html">Portfolio Timeline</a></li>
+                                <li><a href="portfolio-lightbox.html">Portfolio Lightbox</a></li>
+                                <li><a href="portfolio-full-width.html">Portfolio Full Width</a></li>
+                                <li><a href="portfolio-single-project.html">Single Project</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a class="dropdown-toggle" href="#">
+                                Pages
+                                <i class="icon icon-angle-down"></i>
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li class="dropdown-submenu">
+                                    <a href="#">Shop</a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="shop-full-width.html">Shop - Full Width</a></li>
+                                        <li><a href="shop-sidebar.html">Shop - Sidebar</a></li>
+                                        <li><a href="shop-product-full-width.html">Shop - Product Full Width</a></li>
+                                        <li><a href="shop-product-sidebar.html">Shop - Product Sidebar</a></li>
+                                        <li><a href="shop-cart.html">Shop - Cart</a></li>
+                                        <li><a href="shop-login.html">Shop - Login</a></li>
+                                        <li><a href="shop-checkout.html">Shop - Checkout</a></li>
+                                    </ul>
+                                </li>
+                                <li><a href="page-full-width.html">Full width</a></li>
+                                <li><a href="page-left-sidebar.html">Left sidebar</a></li>
+                                <li><a href="page-right-sidebar.html">Right sidebar</a></li>
+                                <li><a href="page-custom-header.html">Custom Header</a></li>
+                                <li><a href="page-404.html">404 Error</a></li>
+                                <li><a href="page-team.html">Team</a></li>
+                                <li><a href="page-services.html">Services</a></li>
+                                <li><a href="page-careers.html">Careers</a></li>
+                                <li><a href="page-faq.html">FAQ</a></li>
+                                <li><a href="page-login.html">Login / Register</a></li>
+                                <li><a href="sitemap.html">Sitemap</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a class="dropdown-toggle" href="#">
+                                Contact Us
+                                <i class="icon icon-angle-down"></i>
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li><a href="contact-us.html">Contact Us - Basic</a></li>
+                                <li><a href="contact-us-advanced.php">Contact Us - Advanced</a></li>
+                            </ul>
+                        </li>*@
+                </ul>
+            </nav>
+        </div>
+    </div>
+
+</header>
+
+
+@*<body style=" padding-bottom: 70px;">
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+
+                @Html.ActionLink("Course Management System", "Index", "Home", null, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("Все курсы", "List", "Course")</li>
+                </ul>
+                @if (User.IsInRole("teacher"))
+                {
+                    <ul class="nav navbar-nav">
+
+                    <li>@Html.ActionLink("Мои курсы", "Teacher", "Course")</li>
+                    </ul>
+                }
+                @if (User.IsInRole("admin"))
+                {
+                     <ul class="nav navbar-nav">
+
+                     <li>@Html.ActionLink("Заявки", "Requests", "Course")</li>
+                     </ul>
+                }
+                @if (User.IsInRole("student"))
+                {
+                    <ul class="nav navbar-nav">
+                        <li>@Html.ActionLink("Мои оценки", "Student", "Mark")</li>
+                    </ul>
+                }
+                @if (User.IsInRole("student"))
+                {
+                    <ul class="nav navbar-nav">
+                        <li>@Html.ActionLink("Мои курсы", "Index", "Subscribe")</li>
+                    </ul>
+                }
+                @Html.Partial("_LoginPartial")
+                @Html.Partial("_SearchPartial", new CourseManagementSystem.Models.Search())
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">*@
+<div class="container body-content">
+    @RenderBody()
+</div>
+
+@*<footer id="Additionalfooter" class="footer-copyright" style="margin-top: 50%;" >
+    <div class="container">
+        <div class="row">
+            <div class="col-md-1">
+                <a href="/Home/Index" class="logo">
+                    <img alt="Porto Website Template" class="img-responsive" src="~/img/logo-footer.png">
+                </a>
+            </div>
+            <div class="col-md-11">
+                <p align="center">© Copyright @DateTime.Today.Year. Все права защищены.</p>
+            </div>
+           
+        </div>
+    </div>
+</footer>*@
+<!-- Libs -->
+<script src="~/vendor/jquery.js"></script>
+<script src="~/js/plugins.js"></script>
+<script src="~/vendor/jquery.easing.js"></script>
+<script src="~/vendor/jquery.appear.js"></script>
+<script src="~/vendor/jquery.cookie.js"></script>
+
+<script src="~/vendor/bootstrap.js"></script>
+<script src="~/vendor/twitterjs/twitter.js"></script>
+<script src="~/vendor/owl-carousel/owl.carousel.js"></script>
+<script src="~/vendor/jflickrfeed/jflickrfeed.js"></script>
+<script src="~/vendor/magnific-popup/magnific-popup.js"></script>
+<script src="~/vendor/mediaelement/mediaelement-and-player.js"></script>
+<script src="~/vendor/jquery.stellar.js"></script>
+<script src="~/vendor/jquery.validate.js"></script>
+
+<!-- Theme Initializer -->
+<script src="~/js/theme.js"></script>
+
+<!-- Custom JS -->
+<script src="~/js/custom.js"></script>
+<script> if (document.getElementById('footer')!=null)document.getElementById('Additionalfooter').style.display = "none";</script>
+@*<nav class="navbar navbar-default navbar-fixed-bottom" role="navigation" style="background-color:#222222; border-bottom:none;">
+        <footer class="container-fluid" style="text-align:center;color:#ffffff;">
+            <p>&copy; @DateTime.Today.Year – приложение ASP.NET</p>
+        </footer>
+    </nav>*@
+@*</div>*@
+@*</body>*@

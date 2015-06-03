@@ -1,0 +1,222 @@
+﻿@using Homeschooledsystem.Models
+@model Course
+
+@{
+    ViewBag.Title = "Details";
+    string userId = ViewBag.userId;
+    var db = new ApplicationDbContext();
+}
+
+<div class="col-md-4 " style="border-right:1px solid #eeeeee">
+    <h2>О курсе</h2>
+
+    <div>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.name)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.name)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.PublishDate)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.PublishDate)
+            </dd>
+            <dt>
+                @Html.DisplayNameFor(model => model.Author)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Author.FirstName)&nbsp;
+                @Html.DisplayFor(model => model.Author.LastName)
+            </dd>
+            <dt>
+                @Html.DisplayNameFor(model => model.description)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.description)
+            </dd>
+            <dt>
+                Оценка
+            </dt>
+
+            <dd>
+                @ViewBag.mark
+            </dd>
+        </dl>
+    </div>
+    @if (User.IsInRole("student"))
+    {
+        <style>
+            .scale {
+                background-color: grey;
+                width: 20px;
+                position: absolute;
+                bottom: 0;
+                display: inline-block;
+            }
+
+            #scale {
+                width: 100px;
+                height: 50px;
+                position: relative;
+                display: inline-block;
+                margin-left: 20px;
+            }
+        </style>
+        <div style="white-space:nowrap;">
+            <div style="display:inline-block;">Ваша оценка:</div>
+            <div id="scale">
+                <div id="scale1" class="scale" style="height:20%;" onclick="clickScale(this)" onmouseover="moveScale(this)" onmouseout="outScale()"></div>
+                <div id="scale2" class="scale" style="left:21px;height:40%;" onclick="clickScale(this)" onmouseover="moveScale(this)" onmouseout="outScale()"></div>
+                <div id="scale3" class="scale" style="left:42px;height:60%;" onclick="clickScale(this)" onmouseover="moveScale(this)" onmouseout="outScale()"></div>
+                <div id="scale4" class="scale" style="left:63px;height:80%;" onclick="clickScale(this)" onmouseover="moveScale(this)" onmouseout="outScale()"></div>
+                <div id="scale5" class="scale" style="left:84px;height:100%;" onclick="clickScale(this)" onmouseover="moveScale(this)" onmouseout="outScale()"></div>
+            </div>
+            <div id="markDiv" style="display:inline-block;background-color:orange;width:50px;height:50px;margin-left: 20px;vertical-align: top;text-align:center;">
+                <h1 id="userMark" style="line-height:50px; margin-top:0;color:white;"></h1>
+            </div>
+        </div>
+        <form id="markForm" style="display:none" action="/Course/Mark" method="post">
+            <input id="mark" name="value" />
+            <input id="mark" name="courseId" value="@Model.id" />
+        </form>
+        <script>
+           var temp = @ViewBag.userMark;
+           userMark.innerHTML = temp;
+           updateColorMark(temp.toString());
+           fillScale(temp);
+           function clickScale(object, e) {
+               document.getElementById('mark').value = object.id[5];
+               markForm.submit();
+           }
+           function outScale() {
+               var scales = document.getElementsByClassName('scale');
+               clearScale(scales);
+               fillScale(temp);
+               userMark.innerHTML = temp;
+               updateColorMark(temp.toString());
+           }
+           function moveScale(object, e) {
+               clearScale(document.getElementsByClassName('scale'));
+               fillScale(object.id[5]);
+               updateColorMark(object.id[5]);
+               userMark.innerHTML = object.id[5];
+           }
+           function clearScale(scales) {
+               for (var i = 0; i < scales.length; i++) {
+                   scales[i].style.backgroundColor = 'grey';
+               }
+           }
+           function fillScale(value){
+               for(var i = 1;i <= value;i++)
+               {
+                   document.getElementById('scale' + i).style.backgroundColor = 'orange';
+
+               }
+           }
+           function updateColorMark(object) {
+               switch (object) {
+                   case "1":
+                   case "2":
+                       markDiv.style.backgroundColor = '#e53935';
+                       break;
+                   case "3":
+                       markDiv.style.backgroundColor = 'grey';
+                       break;
+                   case "4":
+                   case "5":
+                       markDiv.style.backgroundColor = '#8bc34a';
+                       break;
+                   default:
+                       markDiv.style.backgroundColor = 'orange';
+                       break;
+               }
+           }
+        </script>
+    }
+    <p>
+        @Html.ActionLink("Вернуться к списку", "List")
+        @if (User.IsInRole("admin"))
+        {
+
+            <text>|</text>
+            if (Model.activated)
+            {
+                @Html.ActionLink("Заблокировать", "ChangeStatus", new { id = Model.id })
+            }
+            else
+            {
+                @Html.ActionLink("Разрешить", "ChangeStatus", new { id = Model.id })
+            }
+            <text>|</text>
+            @Html.ActionLink("Удалить курс", "Delete", new { id = Model.id })
+
+        }
+
+        @if (User.IsInRole("student") && db.Subscription.Where(l => l.Course.id == Model.id && l.Subscriber.Id == userId).Count() == 0)
+        {
+            <text>|</text>
+            @Html.ActionLink("Подписаться", "Create", "Subscribe", new { courseId = Model.id }, null)
+   
+        }
+        else if (User.IsInRole("student"))
+        {
+
+            <text>| Вы подписаны на курс.</text>
+            @Html.ActionLink("Отписаться", "Delete", "Subscribe", new { Id = db.Subscription.Where(l => l.Course.id == Model.id && l.Subscriber.Id == userId).First().SubscriptionId }, null)
+
+        }
+
+    </p>
+</div>
+
+<div class="col-md-8">
+
+    <p>
+        @if (User.IsInRole("student") && db.Subscription.Where(s => s.Course.id == Model.id).Count() != 0)
+        {
+            @Html.Action("Details", "Subscribe", new { courceId = Model.id })
+            
+        }
+        else
+        {
+            @Html.Action("Index", "Lectures", new { courceId = Model.id })
+         
+        }
+
+    </p>
+</div>
+<div class="col-md-2">
+    
+    <div class="social-icons">
+        <ul class="social-icons">
+            <li class="facebook"><a href="http://www.facebook.com/" target="_blank" data-placement="bottom" rel="tooltip" title="Facebook">Facebook</a></li>
+            <li class="skype"><a href="skype:@Model.Author.Skype?call"  data-placement="bottom" rel="tooltip" title="Skype">Skype</a></li>
+            <li class="mail"><a href="mailto:@Model.Author.Email" target="_blank" data-placement="bottom" rel="tooltip" title="Email">Email</a></li>
+        </ul>
+    </div>
+</div>
+<br />
+<div class="col-md-11">
+    <hr />
+    <p>
+        @Html.Action("Comment", "Course", new { courseId = Model.id })
+    </p>
+</div>
+
+<br />
+<div class="col-md-11">
+    <hr />
+    <p>
+        @Html.Action("CommentList", "Course", new { courseId = Model.id })
+    </p>
+</div>
+

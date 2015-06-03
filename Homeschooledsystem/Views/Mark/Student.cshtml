@@ -1,0 +1,65 @@
+﻿@using System.Web.Mvc.Html
+@model IEnumerable<Homeschooledsystem.Models.Subscription>
+
+@{
+    ViewBag.Title = "Мои курсы";
+}
+
+<h2>Мои курсы</h2>
+
+
+@if (Model.Count() > 0)
+{
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Course.name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Course.description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Course.Category.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Course.PublishDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Course.Author)
+            </th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Course.name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Course.description)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Course.Category.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Course.PublishDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Course.Author.FirstName)&nbsp;
+                    @Html.DisplayFor(modelItem => item.Course.Author.LastName)
+                </td>
+                <td>
+                    @Html.ActionLink("Подробнее", "Details", new { id = item.Course.id })
+                </td>
+            </tr>
+        }
+    </table>
+}
+else
+{
+    <hr />
+    <p style="color:#808080; text-align:center">
+        У вас пока ещё нет курсов
+    </p>
+}
+

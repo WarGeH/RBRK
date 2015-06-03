@@ -1,0 +1,73 @@
+﻿@model Homeschooledsystem.Models.Question
+@Scripts.Render("~/scripts/CreateTest/Engine.js")
+@Styles.Render("~/Content/CreateTest/Style.css")
+
+@{
+    ViewBag.Title = "Create";
+}
+
+@if (User.IsInRole("teacher"))
+{
+    <h2>Введите вопрос и варианты ответа</h2>
+
+    <div>
+        <select id="typeSel" onchange="changeButtons()" class="control-label col-md-2" style="width: auto">
+            <option>Один варинт ответа</option>
+            <option>Несколько вариантов ответа</option>
+        </select>
+
+    </div><br />
+    <form action="/Questions/Create" method="post" class="test">
+        <div>
+            <div>
+                <hr />
+                <h4>Выберите сложность вопроса</h4>
+                1 <input type="radio" name="impSel" value="1" checked="checked" />
+                2 <input type="radio" name="impSel" value="2" />
+                3 <input type="radio" name="impSel" value="3" />
+                <hr />
+            </div>
+            <div class="p">
+                @Html.Label("Текст вопроса", htmlAttributes: new { @class = "control-label col-md-2"})
+                @Html.TextArea("Text", htmlAttributes: new { @class = "txtareasq", required=""})
+                
+            </div>
+
+            <div class="p">
+                @Html.Label("Ответ 1", htmlAttributes: new { @class = "control-label col-md-2" })
+                <input type="radio" id="answer" name="answers" checked="checked" value="0" />
+                @Html.TextArea("names", htmlAttributes: new { @class = "txtareas", required = "" })
+            </div>
+
+            <div class="p">
+                @Html.Label("Ответ 2", htmlAttributes: new { @class = "control-label col-md-2" })
+                <input type="radio" id="answer" name="answers" value="1" />
+                @Html.TextArea("names", htmlAttributes: new { @class = "txtareas", required = "" })
+            </div>
+
+            <div class="p">
+                @Html.Label("Ответ 3", htmlAttributes: new { @class = "control-label col-md-2" })
+                <input type="radio" id="answer" name="answers" value="2" />
+                @Html.TextArea("names", htmlAttributes: new { @class = "txtareas", required = "" })
+            </div>
+
+            <div class="p">
+                @Html.Label("Ответ 4", htmlAttributes: new { @class = "control-label col-md-2" })
+                <input type="radio" id="answer" name="answers" value="3" />
+                @Html.TextArea("names", htmlAttributes: new { @class = "txtareas", required = "" })
+            </div>
+
+            <div>
+                <div>
+                    <input class="btn btn-default control-label col-md-2 " type="submit" value="Создать" />
+                </div>
+            </div>
+        </div>
+    </form>
+}
+else
+{
+    <h3>
+        @Html.Label("Нет доступа к этой странице")
+    </h3>
+}

@@ -1,0 +1,114 @@
+﻿@if (User.IsInRole("teacher") )
+{ 
+<html>
+<head>
+    <link rel="stylesheet" href="~/Content/CreateLecture/Style.css">
+    <script type="text/javascript" src="~/resources/CreateLecture/jscolor/jscolor.js"></script>
+    <style>
+        html {
+            overflow-y: hidden;
+        }
+    </style>
+
+</head>
+<body onload="init()">
+    <div id="cover" style="position:absolute;display:none;width:100%;height:100%;left:0;right:0;background-color: rgba(0, 0, 0, 0.70)" onclick="closeSettings()"></div>
+    <div style="height:inherit;">
+        <h1>Creating Lecture</h1>
+        <div id="panel">
+			<iframe style="display: none;" id="superframe" name="superframe"></iframe>
+            @using (Html.BeginForm("", "Lectures/Upload", FormMethod.Post, new { enctype = "multipart/form-data", style = "width: 0px; height: 0px;", target = "superframe" }))
+            {
+                <input type="file" onchange="loadOnServer()" style="display: none" name="fileUpload" id="selectFile" /><br />
+                <input type="submit" style="display: none" name="Submit" id="SubmitSingle" value="Upload" />
+            }
+            <button onclick="create()" class="btn btn-success" id="save">Create</button>
+            <button id="modeButton" onclick="htmlEditor()">HTML</button>
+           
+                <button onclick="preview()">Preview</button>
+                <button class="noJs" id="bold" onclick="setBold()">B</button>
+                <button class="noJs" id="ital" onclick="setItal()">I</button>
+                <button class="noJs" id="under" onclick="setUnderline()"><u>U</u></button>
+                <button class="noJs" onclick="setLink()">L</button>
+                <input id="fontColor" style="border-width:1px" type="text" readonly value="  font" size="2" class="color {valueElement:'null',pickerFaceColor:'#FFFFFF',pickerFace:5,onImmediateChange:'setFontColor(this)'}">
+                <input id="bgColor" style="border-width:1px" type="text" readonly value="bgfont" size="2" class="color {valueElement:'null',pickerFaceColor:'#FFFFFF',pickerFace:5,onImmediateChange:'setFontBGColor(this)'}">
+                <select class="noJs" id="fonts" onchange="setFont()">
+                    <option>Times New Roman</option>
+                    <option>Arial</option>
+                    <option>Arial Black</option>
+                    <option>Comic Sans MS</option>
+                    <option>Courier New</option>
+                    <option>Georgia</option>
+                    <option>Impact</option>
+                    <option>Trebuchet MS</option>
+                    <option>Verdana</option>
+                </select>
+                Font size:
+                <input class="noJs" id="fontSizeInput" onchange="setSize()" type="number" min="1" max="100" value="1" step="1" />
+                <button class="noJs" onclick="setLeft()"><img src="~/resources/CreateLecture/res/Left.png" width="15" height="15" id="left"></button>
+                <button class="noJs" onclick="setCenter()"><img src="~/resources/CreateLecture/res/Center.png" width="15" height="15" id="center"></button>
+                <button class="noJs" onclick="setRight()"><img src="~/resources/CreateLecture/res/Right.png" width="15" height="15" id="right"></button>
+                <button class="noJs" onclick="setInWidth()"><img src="~/resources/CreateLecture/res/InWidth.png" width="15" height="15" id="inwidth"></button>
+                <!--<input type="file" onChange="insertPicture()" style="display:none" id = "insertPicture" accept = "image/* " size = "1" name="insertPicture"/>-->
+                <!--<button onclick="document.getElementById('insertPicture').click();">Insert Picture</button>-->
+                <button class="noJs" id="insertPictureButton" onclick="openSettings(false, false)">Insert Picture</button>
+
+                <div id="settingsForm" style="background:white;width:200px;height:255px;border: 1px solid #47A447;position:absolute;display:none;border-radius:5px">
+                    <div>
+                        Input url:
+                        <input type="text" id="urlInput" oninput="changeInputSize()" name="urlInput" />
+                    </div>
+					<button class="btn btn-primary" onclick="loadContent()" style="margin-top:10px;width:160px;">Load</button>
+                    <div style="margin-top:10px;">
+                        Choice float text:
+                        <br>
+                        <input type="radio" class="floatRadioButton" name="browser" value="left">Left
+                        <input type="radio" class="floatRadioButton" name="browser" value="right">Right
+                        <input type="radio" class="floatRadioButton" checked name="browser" value="none">None
+                    </div>
+                    <div style="margin-top:10px;">
+                        Input size:
+                        <br>
+                        <div align="left" style="margin-left:20px;">
+                            w:
+                            <input id="inputSizeWidth" type="number" min="1" max="1366" value="100" step="1" />
+                            h:
+                            <input id="inputSizeHeigth" type="number" min="1" max="768" value="100" step="1" />
+                        </div>
+                    </div>
+                    <button class="btn btn-success" onclick="applySettings()" style="margin-top:10px;width:160px;">Apply</button>
+                </div>
+
+            <button class="noJs" id="insertVideoButton" onclick="openSettings(true)">Insert Video</button>
+
+        </div>
+        <iframe id='frameId' style="width:100%;height:80%" name='frameId'></iframe>
+        <textarea id='textAreaJs' style="width:100%;height:80%; display:none;resize:none;max-width:none;min-height:80%;"></textarea>
+        <div id="regDiv" class="block" style="background:white;width:300px;height:100px;border: 1px solid #47A447;position:absolute;display:none;border-radius:5px;">
+            <form method="post" id="postForm">
+                <h4 style="margin-left:10px">Enter name of lecture</h4>
+                <input id="inputText" type="hidden" name="Text" />
+                <div class="input-group" style="width:280px;margin-left:10px;">
+                    <input style ="height:34px" type="text" name="Name" id="inputName" class="form-control">
+                        <span class="input-group-btn">
+                            <button class="btn btn-success" type="submit">Save</button>
+                        </span>
+</div>
+            </form>
+        </div>
+        <div id="preview" style="background:white;width:80%;height:80%;display:none;border: 1px solid #47A447;border-radius:5px;">
+            <iframe id="previewFrame" style="width:100%;height:99%;" frameborder="0"></iframe>
+        </div>
+        </div>
+    <script src="~/Scripts/CreateLecture/Engine.js"></script>
+</body>
+</html>
+}
+else
+{
+    <h3>
+        @Html.Label("Нет доступа к этой странице")
+    </h3>
+}
+
+

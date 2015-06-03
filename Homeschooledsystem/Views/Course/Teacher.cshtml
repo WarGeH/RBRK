@@ -1,0 +1,92 @@
+﻿@model IEnumerable<Homeschooledsystem.Models.Course>
+
+@{
+    ViewBag.Title = "Мои курсы";
+}
+
+<h2>Мои курсы</h2>
+<p>
+    @Html.ActionLink("Создать новый", "Create")
+</p>
+@if (Model.Count() > 0)
+{
+    <table class="table" >
+
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Category.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PublishDate)
+            </th>
+
+            @*<th>
+                @Html.DisplayNameFor(model => model.sertificate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.activated)
+            </th>*@
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.description)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Category.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PublishDate)
+                </td>
+
+                @*<td>
+                    @Html.DisplayFor(modelItem => item.sertificate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.activated)
+                </td>*@
+                <td>
+                    @Html.ActionLink("Подробнее", "Details", new { id = item.id })
+                </td>
+                <td>
+                    @Html.ActionLink("Удалить", "Delete", new { id = item.id })
+                </td>
+                @*@if (item.isFinished == false)
+                {
+                    <td>
+
+                        @Html.ActionLink("Завершить", "CourseFinish", new { id = item.id })
+                    </td>
+                }
+                else
+                {
+                    <td>Завершен</td>
+                }*@
+               
+            </tr>
+        }
+
+    </table>
+}
+else
+{
+
+    <hr />
+    <p style="color:#808080; text-align:center">
+        У вас пока ещё нет курсов
+    </p>
+}

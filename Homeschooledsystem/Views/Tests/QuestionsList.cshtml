@@ -1,0 +1,73 @@
+﻿@{
+    ViewBag.Title = "QuestionsList";
+    List<Homeschooledsystem.Models.Question> questions = ViewBag.Questions;
+    List<Homeschooledsystem.Models.Answer> answers = ViewBag.Answers;
+
+    int answersCount = 4;
+    int currAnsw = 0;
+    int testId = ViewBag.TestId;
+}
+
+
+@model IEnumerable<Homeschooledsystem.Models.Test>
+
+<table class="table">
+    <tr>
+        <td>
+            <h4>Текст вопроса</h4>
+        </td>
+        <td>
+            <h4>Варианты ответа</h4>
+        </td>
+    </tr>
+
+</table>
+
+@if (questions.Count() > 0)
+{
+    <table class="table">
+        @foreach (var item in questions)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Text)
+
+                </td>
+                <td>
+                    @for (int i = 0; i < answersCount; i++)
+                    {
+
+                        @Html.DisplayFor(modelItem => answers[currAnsw].Text) 
+                        @Html.DisplayFor(modelItem => answers[currAnsw].IsTrue)
+                        currAnsw++;
+                        <br />
+                    }
+                
+                </td>
+                <td>@Html.ActionLink("Удалить", "Delete", "Questions", new { id = item.QuestionId, lectId = ViewBag.LectId },null)</td>
+            </tr>
+        }
+
+    </table>
+}
+else
+{
+    <hr />
+    <p style="color:#808080; text-align:left">
+        Здесь пока ещё нет вопросов
+    </p>
+}
+
+<div class="col-md-9">
+
+    <p>
+        @Html.ActionLink("Добавить вопрос", "Create", "Questions", new { Id = testId }, null)
+    </p>
+</div>
+
+<div class="col-md-9">
+
+    <p>
+        @Html.ActionLink("Вернуться обратно", "Details", "Course", new { id = ViewBag.CourseId }, null)
+    </p>
+</div>

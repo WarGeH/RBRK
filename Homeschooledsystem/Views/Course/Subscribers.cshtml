@@ -1,0 +1,42 @@
+﻿@using Homeschooledsystem.Models
+@model IEnumerable<ApplicationUser>
+
+@{
+    ViewBag.Title = "Subscribers";
+    //List<ApplicationUser> user = Model.ToList();
+}
+
+<div class="col-md-4 " style="border-right:1px solid #eeeeee; height: 250px">
+    @if (Model.Count() > 0)
+    {
+    <h2>Список студентов подписанных на этот курс</h2>
+    <table class="table">
+        <tr>
+            <th>
+                Студент
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FirstName)&nbsp;
+                    @Html.DisplayFor(modelItem => item.LastName) 
+                </td>
+                <td>
+                    @Html.ActionLink("Перейти к профилю", "Usr", "Account", new { profile = item.UserName }, null)
+                </td>
+            </tr>
+        }
+    </table>
+    }
+    else
+    {
+        <hr />
+    <p style="color:#808080; text-align:center">
+        Нет студентов подписанных на этот курс
+    </p>
+    }
+</div>

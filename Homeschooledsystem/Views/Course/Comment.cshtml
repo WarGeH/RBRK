@@ -1,0 +1,21 @@
+﻿@{
+    Layout = null;
+}
+@if (User.IsInRole("student"))
+{
+    using (Html.BeginForm("AddComment", "Course", new { courseId = ViewBag.CourseId }, FormMethod.Post, null))
+    {
+
+        //<form action="/Course/AddComment" method="post">
+        <div>
+            <div>
+                @Html.TextArea("commentText", new { style = " resize : none; width : 100%;height  : 100px" })
+          
+            </div>
+            <br />
+            <div>
+                <input class="btn btn-default control-label col-md-2 " type="submit" value="Отправить" />
+            </div>
+        </div>
+    }
+}
